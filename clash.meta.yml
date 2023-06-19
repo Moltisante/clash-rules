@@ -28,6 +28,7 @@ proxies:
     port: 8388
     cipher: 2022-blake3-chacha20-poly1305
     password: 'your/password='
+    # udp: true
 
 
 rule-providers:
